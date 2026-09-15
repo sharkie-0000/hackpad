@@ -24,16 +24,18 @@ i have built almost everything on my own so i would be able to understand the en
 ## Pictures / Files
 
 ### 3D Model
-<img width="1600" height="1038" alt="image" src="https://github.com/user-attachments/assets/2231f817-24e3-4aa3-947f-4b4c232bb17c" />
+<img width="1600" height="1038" alt="image" src="https://github.com/user-attachments/assets/eb47ff2d-b81a-429f-956a-e1ae684ceb09" />
+<img width="1600" height="919" alt="image" src="https://github.com/user-attachments/assets/aeca8356-0ad9-4268-aebd-ae160ee215c6" />
+
 
 ### Circuit / Schematic
-<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/52248860-3af4-4915-9e5a-d93994e2436b" />
+<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/2f867d5a-26e0-4a48-b464-f9f31354e5b1" />
 
 ### JLCPCB Product Page
-<img width="1600" height="910" alt="image" src="https://github.com/user-attachments/assets/b2de7ede-697a-4a43-a3c8-9c49e893a2d2" />
+<img width="1600" height="910" alt="image" src="https://github.com/user-attachments/assets/881b703b-a984-4dfc-9977-ac3f6c1124fc" />
 
 ### 3D Model of PCB
-<img width="1600" height="1133" alt="image" src="https://github.com/user-attachments/assets/8b90a5cc-a33d-4ff0-b2a0-d37f57eeebc6" />
+<img width="1550" height="1054" alt="image" src="https://github.com/user-attachments/assets/633532f2-2511-4f5c-96c7-4074de96e389" />
 
 
 ## BOM
