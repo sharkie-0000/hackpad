@@ -62,6 +62,3 @@ Here are the parts used for this build:
 because i wanted to learn to create a circuit board myself rather than always purchasing them off the shelf. a custom macropad seemed to be an engaging way of learning and having something useful that i could use at my desk.
 
 also built for Hack Club because it allowed me to engage in the process of building the circuit board from scratch without letting it stay only in my head.
-# my-hackpad
-# my-hackpad
-# my-hackpad
