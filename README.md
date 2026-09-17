@@ -34,11 +34,13 @@ i have built almost everything on my own so i would be able to understand the en
 ![PCB Circuit](image/pcb_circuit.png)
 
 
-## BOM
+
+
+
+## Bill of Materials (BOM)
 
 here is the list of parts needed for the hackpad:
 
-## Bill of Materials (BOM)
 
 Here are the parts used for this build:
 
