@@ -1531,6 +1531,16 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 82.55) (xy 237.49 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24958fb8-1661-41f2-9316-e49f57235800")
+	)
+	(wire
+		(pts
 			(xy 194.31 82.55) (xy 186.69 82.55)
 		)
 		(stroke
@@ -1681,6 +1691,16 @@
 	)
 	(wire
 		(pts
+			(xy 187.96 86.36) (xy 194.31 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fe9b1aa-9189-4473-ae72-c52af01ffa72")
+	)
+	(wire
+		(pts
 			(xy 148.59 109.22) (xy 157.48 109.22)
 		)
 		(stroke
@@ -1751,6 +1771,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 86.36) (xy 242.57 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc94f8f2-9b25-49eb-afb5-57b197428fa3")
+	)
+	(wire
+		(pts
 			(xy 118.11 81.28) (xy 118.11 101.6)
 		)
 		(stroke
@@ -1798,6 +1828,16 @@
 			(justify left bottom)
 		)
 		(uuid "2b2c6c61-363e-4850-aaea-c94b05582418")
+	)
+	(label "RE_A"
+		(at 187.96 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5840e0f9-09ee-4f71-838f-71f3e02c21be")
 	)
 	(label "row3"
 		(at 138.43 43.18 0)
@@ -1858,6 +1898,16 @@
 			(justify left bottom)
 		)
 		(uuid "a540785b-e3da-4c87-9cae-f7d932aea705")
+	)
+	(label "RE_B"
+		(at 242.57 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aae7951a-46e1-415f-8d66-df63748dcb3b")
 	)
 	(label "col1"
 		(at 186.69 74.93 0)
@@ -1938,6 +1988,16 @@
 			(justify left bottom)
 		)
 		(uuid "f6eb6395-dc07-4648-9285-83b01873489e")
+	)
+	(label "RE_S1"
+		(at 243.84 82.55 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ff6d6747-49d3-4bd1-b2d4-551816c0966d")
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")

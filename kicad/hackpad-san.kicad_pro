@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "grb/",
       "specctra_dsn": "",
       "step": "hackpad-san-3.step",
       "vrml": ""
