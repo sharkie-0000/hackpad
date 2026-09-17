@@ -24,18 +24,14 @@ i have built almost everything on my own so i would be able to understand the en
 ## Pictures / Files
 
 ### 3D Model
-<img width="1600" height="1038" alt="image" src="https://github.com/user-attachments/assets/eb47ff2d-b81a-429f-956a-e1ae684ceb09" />
-<img width="1600" height="919" alt="image" src="https://github.com/user-attachments/assets/aeca8356-0ad9-4268-aebd-ae160ee215c6" />
-
+![PCB 3D Front](image/pcb_3d_front.png)
+![PCB 3D Back](image/pcb_3d_back.png)
 
 ### Circuit / Schematic
-<img width="1600" height="819" alt="image" src="https://github.com/user-attachments/assets/2f867d5a-26e0-4a48-b464-f9f31354e5b1" />
+![Schematic](image/schamtic.png)
 
-### JLCPCB Product Page
-<img width="1600" height="910" alt="image" src="https://github.com/user-attachments/assets/881b703b-a984-4dfc-9977-ac3f6c1124fc" />
-
-### 3D Model of PCB
-<img width="1550" height="1054" alt="image" src="https://github.com/user-attachments/assets/633532f2-2511-4f5c-96c7-4074de96e389" />
+### PCB Circuit
+![PCB Circuit](image/pcb_circuit.png)
 
 
 ## BOM
@@ -46,15 +42,24 @@ here is the list of parts needed for the hackpad:
 
 Here are the parts used for this build:
 
-| Item | Quantity | Price | Link |
-|---|---:|---:|---|
-| Seeed Studio XIAO RP2040 Development Board | 1 | ₹589 | [Robu / RoboCraze](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR) |
-| Rotary Encoder (PEC12R-4225F-S0024) | 1 | ₹159 | [LionCircuits](https://www.lioncircuits.com/parts/PEC12R-4225F-S0024) |
-| Cherry MX Mechanical Switches (Pack of 10) | 9 | ₹350 | [Cosmic Byte](https://www.thecosmicbyte.com/product/cherry-mx-mechancial-5-pin-switches-compatible-with-hot-swappable-keyboards-pack-of-10/?attribute_pa_switch-type=mx-silent-red) |
-| Spongebob Artisan Keycaps | 9 | ₹699 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/artisan-keycaps/spongebob-artisan-keycaps/) |
-| PCB Fabrication | 1 | $8.50 | [JLCPCB](https://jlcpcb.com) |
-| Diodes | 9 | ₹149 | [Diode](https://rees52.com/products/100pcs-diode-assortment-kit-rectifier-diode-kit-8-values-diy-electronic-diode?variant=43607283597479&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopfW6l_PCFEGSpIn1MzWFSyL2kUMnO_pwWWxPw7mdDOjD9aFjIchQY) |
-| 3D Printed Case | 1 | — | — |
+| Item                                       | Quantity |      Price | Link                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------ | -------: | ---------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Seeed Studio XIAO RP2040 Development Board |        1 |       ₹589 | [Robu / RoboCraze](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR)                                                                                                                                                                                     |
+| Rotary Encoder (PEC12R-4225F-S0024)        |        1 |       ₹159 | [LionCircuits](https://www.lioncircuits.com/parts/PEC12R-4225F-S0024)                                                                                                                                                                                                                                                            |
+| Cherry MX Mechanical Switches (Pack of 10) |        9 |       ₹350 | [Cosmic Byte](https://www.thecosmicbyte.com/product/cherry-mx-mechancial-5-pin-switches-compatible-with-hot-swappable-keyboards-pack-of-10/?attribute_pa_switch-type=mx-silent-red)                                                                                                                                              |
+| Spongebob Artisan Keycaps                  |        9 |       ₹699 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/artisan-keycaps/spongebob-artisan-keycaps/)                                                                                                                                                                                                          |
+| PCB Fabrication                            |        1 |       ₹720 | [JLCPCB](https://jlcpcb.com)                                                                                                                                                                                                                                                                                                     |
+| Diodes                                     |        9 |       ₹149 | [Diode](https://rees52.com/products/100pcs-diode-assortment-kit-rectifier-diode-kit-8-values-diy-electronic-diode?variant=43607283597479&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopfW6l_PCFEGSpIn1MzWFSyL2kUMnO_pwWWxPw7mdDOjD9aFjIchQY) |
+| 3D Printed Case                            |        1 |          — | —                                                                                                                                                                                                                                                                                                                                |
+| **Total Cost**                             |          | **₹2,666** |                                                                                                                                                                                                                                                                                                                                  |
+
+
+## Assembly Steps
+
+1. Put the PCB on the bottom plate and fix it by using **M3 Screws**.
+2. Fasten the upper portion of the box to the bottom plate with the help of **Glue**.
+3. The use of M3 screws is **optional**. You can also fasten the whole box with the help of glue.
+4. Ensure that everything is properly aligned.
 
 
 ## Why did i build this?
